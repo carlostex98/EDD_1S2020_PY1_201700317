@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 #include "clases.h"
+#include "methods.h"
+#include "reports.h"
 
 
 int main()
