@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ccten/Desktop/proy2_edd/classes.h
+
+C:/Users/ccten/Desktop/proy2_edd/main.cpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+classes.h
+C:/Users/ccten/Desktop/proy2_edd/classes.h
+methods.h
+C:/Users/ccten/Desktop/proy2_edd/methods.h
+reports.h
+C:/Users/ccten/Desktop/proy2_edd/reports.h
+
+C:/Users/ccten/Desktop/proy2_edd/methods.h
+time.h
+-
+
+C:/Users/ccten/Desktop/proy2_edd/reports.h
+

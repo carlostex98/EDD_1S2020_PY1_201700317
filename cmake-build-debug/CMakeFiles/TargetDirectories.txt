@@ -1,0 +1,3 @@
+C:/Users/ccten/Desktop/proy2_edd/cmake-build-debug/CMakeFiles/proy2_edd.dir
+C:/Users/ccten/Desktop/proy2_edd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ccten/Desktop/proy2_edd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
